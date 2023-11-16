@@ -28,5 +28,6 @@
 
    - Git Graph
    - Rainbow CSV
+   - vscode-pdf (om PDFs te openen in vscode)
 
 8. Open `code/testSetup.ipynb` en kijk of alles werkt
