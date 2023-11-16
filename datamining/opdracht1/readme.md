@@ -11,8 +11,8 @@
    E. Klik op `new SSH key`
    D. Geef je key een leuke titel en plak wat je zojuist gekopieerd hebt in het `key` veld.
    F. Klik `Add SSH key`
-3. Vind een leuke folder waar je je project op wilt slaan. (mijne staat onder ~/Documents/school/minor)
-4. Open een terminal in deze folder en type het volgende commando: `git@github.com:TotNotTac/datascience_blok2.git`, laat de terminal open staan
+3. Vind een leuke folder waar je je project op wilt slaan. (mijne staat onder `~/Documents/school/minor`)
+4. Open een terminal in deze folder en type het volgende commando: `git clone git@github.com:TotNotTac/datascience_blok2.git`, laat de terminal open staan
 5. Installeer Visual Studio Code
    https://code.visualstudio.com/download
 6. type `code .` in de terminal die je nog open had staan
