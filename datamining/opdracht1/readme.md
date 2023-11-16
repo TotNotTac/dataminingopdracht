@@ -29,4 +29,4 @@
    - Git Graph
    - Rainbow CSV
 
-8. Open `testSetup.ipynb` en kijk of alles werkt
+8. Open `code/testSetup.ipynb` en kijk of alles werkt
