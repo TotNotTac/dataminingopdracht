@@ -6,3 +6,4 @@ plotly
 nbformat
 ipykernel
 yellowbrick
+nbconvert
