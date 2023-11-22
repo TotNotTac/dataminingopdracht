@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+statsmodels
+plotly
+nbformat
+ipykernel
+yellowbrick
